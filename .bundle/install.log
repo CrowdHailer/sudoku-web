@@ -17,3 +17,10 @@ I, [2014-02-07T09:53:48.690797 #616]  INFO -- : 0:  shotgun (0.9) from /Users/pe
 I, [2014-02-07T09:53:48.691084 #616]  INFO -- : 0:  tilt (1.4.1) from /Users/petersaxton/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
 I, [2014-02-07T09:53:48.691363 #616]  INFO -- : 0:  sinatra (1.4.4) from /Users/petersaxton/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
 I, [2014-02-07T09:53:48.691614 #616]  INFO -- : 0:  bundler (1.5.1) from /Users/petersaxton/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
+I, [2014-02-07T10:10:26.418184 #823]  INFO -- : 0:  newrelic_rpm (3.7.2.192) from /Users/petersaxton/.rvm/gems/ruby-2.1.0/specifications/newrelic_rpm-3.7.2.192.gemspec
+I, [2014-02-07T10:10:26.418607 #823]  INFO -- : 0:  rack (1.5.2) from /Users/petersaxton/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-07T10:10:26.418963 #823]  INFO -- : 0:  rack-protection (1.5.2) from /Users/petersaxton/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-02-07T10:10:26.419398 #823]  INFO -- : 0:  shotgun (0.9) from /Users/petersaxton/.rvm/gems/ruby-2.1.0/specifications/shotgun-0.9.gemspec
+I, [2014-02-07T10:10:26.419728 #823]  INFO -- : 0:  tilt (1.4.1) from /Users/petersaxton/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-02-07T10:10:26.420098 #823]  INFO -- : 0:  sinatra (1.4.4) from /Users/petersaxton/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-02-07T10:10:26.420384 #823]  INFO -- : 0:  bundler (1.5.1) from /Users/petersaxton/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
