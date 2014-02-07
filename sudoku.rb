@@ -37,7 +37,11 @@ end
 get '/' do
   sudoku = random_sudoku
   session[:solution] = sudoku
-  @current_solution = session[:current_solution].chars.map { |e| e == 0 ? "" : e.to_s } || puzzle(sudoku.dup)
+  if session[:current_solution]
+    @current_solution = session[:current_solution].chars.map { |e| e == 0 ? "" : e.to_s } 
+  else
+    @current_solution = puzzle(sudoku.dup)
+  end
   erb :index
 end
 
